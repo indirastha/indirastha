@@ -1,9 +1,20 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indirastha)
-<span align="right"><img src="https://komarev.com/ghpvc/?username=indirastha&label=Profile%20views&color=0e75b6&style=flat" alt="aditistha"/></span> 
+# Indira Shrestha
 
-<hr>
+Finance Officer | Researcher & Data Analytics Enthusiast
 
-## _Hi there 👋, I am Indira Shrestha_ ✨
+MBA Graduate. Passionate about finance, remittance, and economic growth. Skilled in Finance, Tax, Accounting, Python, Research, and Strategic Planning.
 
-- 🌱 I’m currently learning **Data Analytics**
-- 📫 How to reach me: _know.indira@gmail.com_
+**Key Interests:**
+- Global Finance & Economic Growth
+- Working Capital Management
+- Data-Driven Decision Making
+
+**Contact:**
+- Email: know.indira@gmail.com
+- [LinkedIn](https://linkedin.com/in/indirastha)
+
+📍 Nepal — Open to global research collaborations.
+
+---
+
+> This README is auto-generated from my [website](https://indira-shrestha.com.np). Feel free to explore, connect, or collaborate!
